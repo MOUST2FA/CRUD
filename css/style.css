@@ -1,0 +1,16 @@
+.demo {
+    background-color: rgb(229, 183, 183);
+}
+
+span {
+    background-color: rgb(255, 251, 0);
+}
+
+textarea {
+    resize: none;
+    height: 120px;
+}
+
+.backColor {
+    background-color: rgb(152, 220, 244);
+}
